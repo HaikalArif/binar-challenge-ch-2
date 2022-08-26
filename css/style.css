@@ -679,6 +679,10 @@ footer .copyright {
 
 @media screen and (max-width: 600px) {
 
+    footer {
+        margin-top: 30px;
+    }
+
     .list-footer {
         padding: 0 16px;
     }
