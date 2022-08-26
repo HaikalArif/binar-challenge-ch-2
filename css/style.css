@@ -673,7 +673,7 @@ footer .navigation-footer {
     text-decoration: none;
 }
 
-.copyright {
+footer .copyright {
     padding-left: 50px;
 }
 
@@ -684,7 +684,7 @@ footer .navigation-footer {
     }
 
     .footer-nav,
-    .copyright {
+    footer .copyright {
         padding: 0;
     }
 
