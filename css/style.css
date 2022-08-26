@@ -439,7 +439,7 @@ nav .offcanvas-body ul {
 
 @media only screen and (max-width: 600px) {
     .testimonial {
-        margin: 0 auto;
+        margin: 15px auto 0 auto;
         width: 100vw;
         height: 588px;
         overflow-x: hidden;
@@ -622,7 +622,7 @@ footer .copyright {
     }
 
     .faq h2 button {
-        word-spacing: 3px;
+        word-spacing: 2px;
     }
 
     .faq .accordion_list,
